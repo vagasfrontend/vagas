@@ -1,24 +1,12 @@
-## Exemplo de vaga para Front End
+## Desenvolvedor Front End Senior
 
-* **Cargo:** Desenvolvedor Front End
-* **Empresa** Viva Decora
-* **Status:** aberta
-* **Cidade:** São Paulo - SP
-* **Tipo de contrato:** CLT
-* **Aberto em:** 22/09/2015
-* **Conhecimentos necessários:** javascript,angular,css,sass,
-* **Descrição:** Vaga de trabalho
-* **Como aplicar?** Me envie um email
-
-## Exemplo 2 de vaga para Front End
-
-* **Cargo:** Desenvolvedor Front End Senior
-* **Empresa** 3Birds - Desenvolvimento web
-* **Status:** fechada
-* **Cidade:** São Paulo - SP
-* **Tipo de contrato:** CLT
-* **Aberto em:** 22/09/2013
-* **Conhecimentos necessários:** javascript,angular,css,sass,grunt,gulp,
-* **Descrição:** Vaga de trabalho para time em desenvolvimento
-* **Como aplicar?** Me envie um email, por favor
+* **Cargo:** Desenvolvedor Front End Junior
+* **Empresa** Jota Teles
+* **Cidade:** São Paulo
+* **Salário:** Não informado
+* **Tipo de contrato:** CLT - Empregado
+* **Aberto em:** 28/07/2015 13:46:40
+* **Conhecimentos necessários:** css
+* **Descrição:** nada
+* **Como aplicar?** Mande email para exemplo@gmail.com
 

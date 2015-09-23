@@ -3,11 +3,11 @@
 
 * **Cargo:** {{cargo}}
 * **Empresa** {{empresa}}
-* **Status:** {{status}}
 * **Cidade:** {{cidade}}
+* **Salário:** {{salario}}
 * **Tipo de contrato:** {{contrato}}
-* **Aberto em:** {{data_abertura}}
-* **Conhecimentos necessários:** {{#each conhecimentos}}{{this}},{{/each}}
+* **Aberto em:** {{'Indicação de data e hora'}}
+* **Conhecimentos necessários:** {{conhecimentos}}
 * **Descrição:** {{descricao}}
 * **Como aplicar?** {{como_aplicar}}
 
